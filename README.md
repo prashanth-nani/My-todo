@@ -1,8 +1,11 @@
 # TODO
 - [ ] Portfolio website
 - [ ] [Complete Java download API](https://github.com/prashanth-nani/java-tools)
-- [ ] [**Electron Music Player for linux (Current)**](https://github.com/prashanth-nani/armonia)
+- [x] [Electron Music Player for linux](https://github.com/prashanth-nani/armonia)
 - [ ] Android music player or game
 - [ ] Learn Google App script
 - [ ] Web app for video calling in local network
 - [ ] Build Python proxy webserver
+- [ ] Read _SQL Performance Explained_
+- [ ] Read _Elastic search_ complete documentation
+- [ ] Complete _Machine Learning_ course by _Andrew NG_ on Coursera
